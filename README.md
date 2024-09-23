@@ -4,7 +4,7 @@
 Splitwise is a web application that allows users to manage shared expenses with friends and family. It provides a simple and intuitive interface for tracking who owes what, making it easier to settle up after group outings, trips, or shared bills.
 
 ## Demo
-[Splitwise Clone](assets/app.png)
+[](assets/app.png)
 
 ## Features
 - **User Authentication**: Secure login and registration for users.
